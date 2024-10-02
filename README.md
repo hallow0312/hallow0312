@@ -1,10 +1,10 @@
-<h3 align="center"><b> ⚙️Game⚙️ </b></h3>
+<h3 align="left"><b> ⚙️Game⚙️ </b></h3>
 </br>
 <p align="left">
 	<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=000000">
 	<img src="https://img.shields.io/badge/photon-0000FF?style=for-the-badge&logo=photon&logoColor=000000">
 </div>
-<h3 align="center"><b> 🕮 Using Languages 🕮 </b></h3>
+<h3 align="left"><b> 🕮 Using Languages 🕮 </b></h3>
 </br>
 <p align="left">
 <img src="https://img.shields.io/badge/c-D358F7?style=for-the-badge&logo=C&logoColor=white">
