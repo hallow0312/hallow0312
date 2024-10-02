@@ -14,7 +14,6 @@
 </br>
 </br>
 </div>
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=hallow0312&show_icons=true&theme=holi" width = "49%" height="130%" />
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=calvin0312" width="42%" height="100%"/>
 
 </p>
