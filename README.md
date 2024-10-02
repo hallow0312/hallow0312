@@ -12,6 +12,6 @@
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 	
 </br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hallow0312&hide=contribs,prs&show_icons=true&theme=graywhite)
+
 
 </p>
