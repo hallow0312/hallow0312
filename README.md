@@ -1,8 +1,9 @@
 <h3 align="center"><b> ⚙️Game⚙️ </b></h3>
 </br>
 <p align="center">
-	<img src="https://github.com/user-attachments/assets/19ef6470-1d3a-4ede-8ba1-245ee8470497"width="65" height="65">
-	<img src="https://github.com/user-attachments/assets/a945c8ed-557f-4edd-a5ab-b1618a45a49f"width="65"height="65">
+	<img src="https://github.com/user-attachments/assets/19ef6470-1d3a-4ede-8ba1-245ee8470497"width="100" height="65">
+	&nbsp;
+	<img src="https://github.com/user-attachments/assets/a945c8ed-557f-4edd-a5ab-b1618a45a49f"width="100"height="65">
 </div>
 <h3 align="center"><b> 🕮 Using Languages 🕮 </b></h3>
 </br>
