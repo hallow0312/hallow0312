@@ -1,8 +1,8 @@
 <h3 align="center"><b> ⚙️Game⚙️ </b></h3>
 </br>
 <p align="center">
-	<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white">
-        <img src="https://img.shields.io/badge/photon-#004480?style=for-the-badge&logo=Photon&logoColor=white"> 
+	<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=Black">
+        <img src="https://img.shields.io/badge/photon-004480?style=for-the-badge&logo=Photon&logoColor=white"> 
 </div>
 <h3 align="center"><b> 🕮 Using Languages 🕮 </b></h3>
 </br>
