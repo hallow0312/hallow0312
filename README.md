@@ -7,11 +7,11 @@
 <h3 align="center"><b> 🕮 Using Languages 🕮 </b></h3>
 </br>
 <p align="center">
-<img src = "https://github.com/user-attachments/assets/b418d518-0c8c-46fa-a97d-add304a5ab61" width="65" height="65">
+<img src = "https://github.com/user-attachments/assets/b418d518-0c8c-46fa-a97d-add304a5ab61" width="65" height="70">
 &nbsp;
-<img src ="https://github.com/user-attachments/assets/bc97c49b-f20c-427f-9ef0-c5d6bac37a97" width="65" height="65">
+<img src ="https://github.com/user-attachments/assets/bc97c49b-f20c-427f-9ef0-c5d6bac37a97" width="65" height="70">
 &nbsp;
-<img src="https://github.com/user-attachments/assets/2a718eaf-a660-4d30-864b-c41876a62f71"width="65" height="65">
+<img src="https://github.com/user-attachments/assets/2a718eaf-a660-4d30-864b-c41876a62f71"width="65" height="70">
 
 </br>
 </div>
