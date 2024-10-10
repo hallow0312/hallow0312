@@ -18,5 +18,6 @@
 <p align="center">
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=calvin0312" width="42%" height="100%"/>
    <img src="http://mazandi.herokuapp.com/api?handle=calvin0312&theme=warm"width="42%" height="100%"/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhallow0312&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+	
 </p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhallow0312&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
