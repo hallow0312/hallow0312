@@ -18,7 +18,7 @@
 </div>
 <p align="center">
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=calvin0312" width="42%" height="100%"/>
-   <img src="http://mazandi.herokuapp.com/api?handle=calvin0312&theme=warm"width="42%" height="100%"/>
+  
 	
 </p>
 
