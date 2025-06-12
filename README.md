@@ -18,7 +18,8 @@
 </div>
 <p align="center">
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=calvin0312" width="42%" height="100%"/>
-  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=calvin0312)](https://solved.ac/calvin0312/)
+
 	
 </p>
 
