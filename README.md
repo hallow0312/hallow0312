@@ -17,7 +17,7 @@
 </br>
 </div>
 <p align="center">
-  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=calvin0312" width="42%" height="20%"/>
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=calvin0312" width="42%" height="200%"/>
   
 	
 </p>
